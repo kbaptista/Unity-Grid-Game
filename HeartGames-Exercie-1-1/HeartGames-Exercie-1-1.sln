@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E2AF9593-527F-A191-70DA-7E1B35C31524}") = "HeartGames-Exercie-1-1", "Assembly-CSharp.csproj", "{0C87CDA1-8AD1-28C3-1CD2-43F2537327D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C87CDA1-8AD1-28C3-1CD2-43F2537327D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C87CDA1-8AD1-28C3-1CD2-43F2537327D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C87CDA1-8AD1-28C3-1CD2-43F2537327D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C87CDA1-8AD1-28C3-1CD2-43F2537327D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

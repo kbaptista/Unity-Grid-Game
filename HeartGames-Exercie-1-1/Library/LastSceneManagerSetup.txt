@@ -1,0 +1,4 @@
+sceneSetups:
+- path: G:/Unity/minesweeper-unity-master/part3/unity_files/Assets/Scenes/play.unity
+  isLoaded: 1
+  isActive: 1
